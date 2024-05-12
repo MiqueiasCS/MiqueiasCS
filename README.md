@@ -1,6 +1,6 @@
 # Miqueias Carvalho
 ## Estudante FullStack
- - HTML, CSS, Javascript, ReactJS, Python, Flask, NoSQL, SQL;
+ - HTML, CSS, Javascript, Typescript,  ReactJS, Vue.js, Python;
  
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiqueiasCS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
